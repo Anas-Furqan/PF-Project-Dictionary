@@ -1,0 +1,5 @@
+apple,A sweet red fruit
+car,A road vehicle with four wheels
+computer,An electronic device for processing data
+book,A set of printed sheets bound together
+anas,student of FAST-NUCES
