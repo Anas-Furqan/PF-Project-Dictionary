@@ -3,3 +3,139 @@ car,A road vehicle with four wheels
 computer,An electronic device for processing data
 book,A set of printed sheets bound together
 anas,student of FAST-NUCES
+phone,A mobile device used for communication and internet access
+laptop,A portable computer designed for personal use
+internet,A global system of interconnected networks
+software,Programs and applications that run on devices
+hardware,Physical components of a computer system
+email,Electronic mail sent over the internet
+password,A secret code used to protect accounts
+database,Organized collection of data stored electronically
+application,A software program designed for specific tasks
+algorithm,Step-by-step procedure for solving a problem
+keyboard,Input device with keys for typing
+mouse,Pointing device used to navigate computers
+monitor,Display screen for viewing computer output
+printer,Device that produces physical copies of digital documents
+network,Connected computers that share information
+wifi,Wireless technology for internet connectivity
+bluetooth,Wireless protocol for short-range communication
+cloud,Remote servers used for storing and processing data
+backup,Copy of data stored for safety and recovery
+firewall,Security system protecting networks from unauthorized access
+virus,Harmful software designed to damage systems
+malware,Malicious software that compromises security
+code,Set of instructions written in programming language
+bug,Error or defect in software
+debug,Process of finding and fixing errors
+cache,Temporary storage for frequently accessed data
+memory,Component that stores data temporarily in computers
+processor,Central component that executes instructions in computers
+download,Transferring files from internet to local device
+upload,Transferring files from device to internet
+streaming,Continuous flow of audio or video over internet
+bandwidth,Amount of data that can be transmitted
+server,Computer that provides services to other computers
+client,Device or program that requests services from servers
+router,Device that connects devices to network
+modem,Device that converts signals for internet connection
+interface,Visual design through which users interact with systems
+website,Collection of web pages accessible via internet
+browser,Application used to access and view websites
+search,Finding information using keywords or queries
+link,Hypertext connection between web pages
+cookie,Small file that stores user preferences and data
+cache,Memory storage that improves performance
+update,Newer version of software or system
+installation,Process of setting up software on device
+configuration,Setting up system parameters and options
+permission,Authorization to access specific resources
+user,Person or account using a system or device
+admin,Administrator with full control over system
+folder,Container for organizing files
+file,Digital document or data stored in system
+extension,Suffix indicating file type
+compression,Reducing file size for easier storage
+encryption,Converting data into coded form for security
+authentication,Process of verifying user identity
+authorization,Granting access rights to resources
+session,Period of active connection or usage
+timeout,Automatic disconnection after inactivity
+refresh,Reloading content to get latest updates
+sync,Synchronizing data across multiple devices
+backup,Creating duplicate copies of important data
+restore,Recovering data from backup copies
+crash,Sudden failure of system or application
+freeze,System becoming unresponsive
+restart,Restarting system to resolve issues
+shutdown,Turning off device or system
+standby,Low-power state while device is not in use
+boot,Starting up device or operating system
+partition,Dividing storage into separate sections
+defragment,Reorganizing data on storage device
+scan,Checking system for errors or malware
+optimize,Improving system performance
+migrate,Moving data to new system or location
+archive,Long-term storage of inactive data
+metadata,Information describing other data
+pixel,Smallest unit of digital image
+resolution,Number of pixels in display
+refresh rate,How often screen updates per second
+color depth,Amount of color information per pixel
+font,Style and design of text characters
+template,Pre-designed format for documents
+macro,Automated sequence of commands
+script,Program written in simple language
+compile,Converting source code to executable
+runtime,Period when program is executing
+library,Collection of reusable code and functions
+framework,Structured set of tools and libraries
+version,Specific release of software
+patch,Small update fixing specific issues
+feature,Capability or function in software
+compatibility,Ability of systems to work together
+plugin,Software extension adding functionality
+addon,Additional component for extending features
+menu,List of options available to user
+shortcut,Quick way to access function
+icon,Small image representing file or application
+notification,Alert message from system or application
+tooltip,Helpful hint displayed on hover
+dashboard,Main screen showing overview
+profile,User account with personal information
+settings,Configuration options for customization
+preference,User choice for system behavior
+theme,Visual style and appearance of interface
+dark mode,Low-light display setting
+light mode,Bright display setting
+accessibility,Features helping users with disabilities
+responsive,Adaptive design for different screen sizes
+mobile,Portable computing devices
+tablet,Flat portable device between phone and laptop
+desktop,Stationary computer setup
+touchscreen,Display responding to touch input
+gesture,Finger movement for control
+swipe,Quick sliding motion on touch screen
+pinch,Using two fingers to zoom
+drag,Moving element by clicking and pulling
+hover,Positioning cursor over element
+dropdown,Menu expanding when selected
+checkbox,Box for selecting options
+radiobutton,Circle for selecting one option
+slider,Control for selecting value range
+progress bar,Visual indicator of completion
+loading,Preparing data or content for use
+buffering,Temporary storage during streaming
+connection,Link between devices or systems
+disconnect,Breaking connection between devices
+latency,Delay in data transmission
+throughput,Amount of data transferred per unit time
+packet,Unit of data in network transmission
+protocol,Set of rules for communication
+port,Interface point for connections
+socket,Endpoint for network communication
+thread,Sequence of instructions in program
+process,Running instance of program
+task,Unit of work performed by computer
+queue,Ordered list of items waiting
+priority,Level of importance for processing
